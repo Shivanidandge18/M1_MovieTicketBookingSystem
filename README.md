@@ -32,7 +32,7 @@ Folder             | Description
 ## Contributors List and Summary
 PS Number. |  Name   |    Features    | Issuess Raised |Issues Resolved|No Test Cases|Test Case Pass
 -------|---------|----------------|----------------|---------------|-------------|--------------
-`99006110` | Goutami D Honagannavar  | Feature A, B etc    | X No     | X No   |X No   |X No     
+`99006110` | Dandge Shivani  | Feature A, B etc    | X No     | X No   |X No   |X No     
    -->
 <!--
 ## Challenges Faced and How Was It Overcome
